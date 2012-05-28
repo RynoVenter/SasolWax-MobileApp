@@ -1,0 +1,182 @@
+﻿body
+{
+	background: #b6b7bc;
+    font-size: .80em;
+    font-family: "Helvetica Neue", "Lucida Grande", "Segoe UI", Arial, Helvetica, Verdana, sans-serif;
+    margin: 0px;
+    padding: 0px;
+    color: #696969;
+}
+
+/* Page*/
+
+.page
+{
+	color: Green;
+}
+
+/* Header*/
+
+.header
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	font-weight: bold;
+	color: #FFFFFF;
+	background-color: #336699;
+	background-repeat: repeat-x;
+}
+
+/* Title*/
+
+.title
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+
+/* Menu*/
+
+.menu
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #FFFFFF;
+	background-color: #4583C0;
+	height: 43px;
+	text-indent: 20px;
+	white-space: normal;
+}
+
+a:link, a:visited
+{
+	color: #CCCCCC;
+}
+
+a:hover
+{
+	color: #000000;
+	font-weight: bold;
+}
+
+a:active
+{
+	color: #034AF3;
+}
+
+/* Headings*/
+
+
+/* h1*/
+
+h1
+{
+	padding: 10px;
+	margin-left: 10px;
+	margin-top: 20px;
+	font-family: Calibri;
+}
+
+/* h2*/
+
+h2
+{
+	color: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: normal;
+	margin-left: 25px;
+}
+
+/* h3*/
+
+h3
+{
+	color: #000000;
+	text-indent: 15px;
+}
+
+/* h4*/
+
+h4
+{
+	font-family: Arial;
+	font-size: 12px;
+	color: White;
+	margin-left: 10px;
+}
+
+/* h5*/
+
+h5
+{
+}
+
+/* Page content*/
+
+.pagecontent
+{
+}
+
+/* Content header*/
+
+.contentheader
+{
+	background-color: #E4E4E4;
+}
+
+/* Content body*/
+
+.contentbody
+{
+	background-color: #FFFFFF;
+}
+
+/* Top Seperator*/
+
+.topseperator
+{
+	background-color: #003366;
+	height: 14px;
+}
+
+/* Bottom Seperator*/
+
+.bottomseperator
+{
+	background-color: #003366;
+	height: 14px;
+}
+
+/* Footer*/
+
+.footer
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	font-weight: bold;
+	color: #FFFFFF;
+	background-color: #336699;
+	background-repeat: repeat-x;
+}
+
+.reports
+{
+	padding: 4px;
+	margin: 4px 4px 4px 24px;
+	border: 2px solid #808080;
+	font-family: Arial, Helvetica, sans-serif;
+	table-layout: auto;
+	border-spacing: 4px;
+	empty-cells: show;
+	caption-side: top;
+	vertical-align: middle;
+	text-align: center;
+	color: #000000;
+	height: 416px;
+	width: 1069px;
+}
+

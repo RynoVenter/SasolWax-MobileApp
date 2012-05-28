@@ -1,0 +1,61 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="OMC.master.cs" Inherits="Sasol_WaxOMC.OMC" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+    <title>Untitled Page</title>
+    <link href="CSS/Site.css" rel="Stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form runat="server">
+    <div>
+            <div class="page">
+                <div class="header">
+                    <div class="title">
+                       <h1>
+                            Sasol Wax 
+                       </h1>
+                       <h2>
+                            Back Office 
+                            
+                       </h2>
+                        <hr />
+                       <div class="topseperator">
+                          
+                       </div>
+                    </div>
+                </div>
+                <div class="menu">
+                    <asp:Button ID="btnAccounts" runat="server" Font-Bold="True" Font-Size="Small" 
+                        onclick="btnAccounts_Click" Text="Accounts" Width="94px" />
+                    <asp:Button ID="btnReports" runat="server" Font-Bold="True" Font-Size="Small" 
+                        onclick="btnReports_Click" Text="Reports" Width="94px" />
+                    <asp:Button ID="btnStockTake" runat="server" Font-Bold="True" Font-Size="Small" 
+                        onclick="btnStockTake_Click" Text="Stock Take" Width="94px" />
+                </div>
+                <div class="pagecontent">
+                    <div class="contentheader">
+                             <asp:ContentPlaceHolder ID="ContentPlaceHolderHeader" runat="server">
+                             </asp:ContentPlaceHolder>
+                        <div class="contentbody">
+                             <asp:ContentPlaceHolder ID="ContentPlaceHolderMain" runat="server">
+                             </asp:ContentPlaceHolder>
+                        </div>
+                        <div class="bottomseperator">
+                        </div>
+                    </div>
+                </div>
+                <div class="footer">
+                    <h4>
+                        Copyright © 2012 Britehouse Specialist SAP Division
+                    </h4>
+                </div>
+            </div>
+    </div>
+    </form>
+    
+</body>
+</html>

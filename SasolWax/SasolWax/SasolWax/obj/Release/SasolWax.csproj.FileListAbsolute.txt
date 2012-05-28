@@ -1,0 +1,17 @@
+C:\SasolWax\SasolWax\SasolWax\bin\Release\SasolWax.exe
+C:\SasolWax\SasolWax\SasolWax\bin\Release\SasolWax.pdb
+C:\SasolWax\SasolWax\SasolWax\bin\Release\System.Data.SqlClient.dll
+C:\SasolWax\SasolWax\SasolWax\bin\Release\System.Data.SQLite.DLL
+C:\SasolWax\SasolWax\SasolWax\obj\Release\ResolveAssemblyReference.cache
+C:\SasolWax\SasolWax\SasolWax\obj\Release\SasolWax.frm_StockConfirmation.resources
+C:\SasolWax\SasolWax\SasolWax\obj\Release\SasolWax.frm_Area.resources
+C:\SasolWax\SasolWax\SasolWax\obj\Release\SasolWax.frm_Logon.resources
+C:\SasolWax\SasolWax\SasolWax\obj\Release\SasolWax.frm_MainMenu.resources
+C:\SasolWax\SasolWax\SasolWax\obj\Release\SasolWax.frm_StockList.resources
+C:\SasolWax\SasolWax\SasolWax\obj\Release\SasolWax.frm_Warehouse.resources
+C:\SasolWax\SasolWax\SasolWax\obj\Release\SasolWax.frm_ManualSerialCode.resources
+C:\SasolWax\SasolWax\SasolWax\obj\Release\SasolWax.frm_ManualStockCount.resources
+C:\SasolWax\SasolWax\SasolWax\obj\Release\SasolWax.Properties.Resources.resources
+C:\SasolWax\SasolWax\SasolWax\obj\Release\SasolWax.csproj.GenerateResource.Cache
+C:\SasolWax\SasolWax\SasolWax\obj\Release\SasolWax.exe
+C:\SasolWax\SasolWax\SasolWax\obj\Release\SasolWax.pdb

@@ -1,0 +1,1 @@
+﻿<%@ WebService Language="C#" CodeBehind="OneMobileWS_Wax.asmx.cs" Class="OneMobileWS_Wax.OneMobileWS_Wax" %>

@@ -1,0 +1,13 @@
+<publishData>
+  <publishTarget publishUrl="C:\SasolWax\OneMobileWS_Wax\Deploy\">
+    <file relUrl="OneMobileWS_Wax.csproj.user" publishTime="11/06/2011 13:01:55" />
+    <file relUrl="bin/OneMobileWS_Wax.pdb" publishTime="05/14/2012 09:13:33" />
+    <file relUrl="Web.config" publishTime="05/14/2012 09:15:12" />
+    <file relUrl="OneMobileWS_Wax.asmx.cs" publishTime="05/14/2012 09:13:33" />
+    <file relUrl="bin/OneMobileWS_Wax.dll" publishTime="05/14/2012 09:13:33" />
+    <file relUrl="OneMobileWS_Wax.csproj" publishTime="11/06/2011 13:01:55" />
+    <file relUrl="OneMobileWS_Wax.asmx" publishTime="10/31/2011 11:13:14" />
+    <file relUrl="Class_Objects/UserDataTypes.cs" publishTime="05/10/2012 12:27:40" />
+    <file relUrl="Properties/AssemblyInfo.cs" publishTime="10/31/2011 10:45:38" />
+  </publishTarget>
+</publishData>

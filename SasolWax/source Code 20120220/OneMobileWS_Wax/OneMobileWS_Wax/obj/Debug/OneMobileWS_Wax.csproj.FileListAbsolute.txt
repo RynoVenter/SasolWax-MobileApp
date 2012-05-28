@@ -1,0 +1,5 @@
+C:\SasolWax\OneMobileWS_Wax\OneMobileWS_Wax\bin\OneMobileWS_Wax.dll
+C:\SasolWax\OneMobileWS_Wax\OneMobileWS_Wax\bin\OneMobileWS_Wax.pdb
+C:\SasolWax\OneMobileWS_Wax\OneMobileWS_Wax\obj\Debug\ResolveAssemblyReference.cache
+C:\SasolWax\OneMobileWS_Wax\OneMobileWS_Wax\obj\Debug\OneMobileWS_Wax.dll
+C:\SasolWax\OneMobileWS_Wax\OneMobileWS_Wax\obj\Debug\OneMobileWS_Wax.pdb

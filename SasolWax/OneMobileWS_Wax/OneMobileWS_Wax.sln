@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneMobileWS_Wax", "OneMobileWS_Wax\OneMobileWS_Wax.csproj", "{9715DC9A-2E15-4092-9845-9D7E9FB356DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9715DC9A-2E15-4092-9845-9D7E9FB356DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9715DC9A-2E15-4092-9845-9D7E9FB356DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9715DC9A-2E15-4092-9845-9D7E9FB356DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9715DC9A-2E15-4092-9845-9D7E9FB356DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
